@@ -1,3 +1,6 @@
 # `code`
 `all my java projects`
- lo so che siete qui per rubare gli esercizi gia fatti da me :)
+## se siete qui è perchè 
+- volete rubare gli esercizi gia fatti da me :)
+- sei pigro
+- perchè sei stato obligato da me a mettere una stella
