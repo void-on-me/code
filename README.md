@@ -1,6 +1,7 @@
-# `code`
-`all my java projects`
-## se siete qui è perchè 
-- volete rubare gli esercizi gia fatti da me :)
-- sei pigro
-- perchè sei stato obligato da me a mettere una stella
+# Code
+This is my personal **repo** of all my school homeworks and assignments. So 
+`feel free to use them for personal use and for school purpose!`
+
+This repo is still work in progress and expect changes at any time! 
+
+_Stay **strong**, stay **hungry**_!
